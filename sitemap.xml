@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://prismastudios.ca/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/studio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/studio/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/estudio/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/es/estudio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/studio/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/estudio/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/music/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/music/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/musica/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/es/musica/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/music/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/musica/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/videos/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/videos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/videos/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/es/videos/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/videos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/videos/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/artists/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/artists/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/artistas/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/es/artistas/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/artists/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/artistas/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/contacto/"/>
+  </url>
+  <url>
+    <loc>https://prismastudios.ca/es/contacto/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prismastudios.ca/contact/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://prismastudios.ca/es/contacto/"/>
+  </url>
+</urlset>
